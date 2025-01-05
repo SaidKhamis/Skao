@@ -1,0 +1,1 @@
+cout << task.number << ". " << task.description;
